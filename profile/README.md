@@ -1,5 +1,7 @@
 # MulleSDE
 
+![Logo](https://avatars3.githubusercontent.com/u/35078660?s=128)
+
 * <b>Are you developing in C, C++ or Objective C ?</b>
 * <b>Do you hate being tied to your IDE vendor ?</b>
 * <b>Do you want to develop for MacOS, FreeBSD, Linux, Windows all with the same IDE ?</b>
