@@ -1,15 +1,6 @@
 # MulleSDE
 
-* <b>Are you developing in C, C++ or Objective C ?</b>
-* <b>Do you hate being tied to your IDE vendor ?</b>
-* <b>Do you want to develop for MacOS, FreeBSD, Linux, Windows all with the same IDE ?</b>
-* <b>Would you like your projects to build not only next year but also in the next decades ?</b>
-
-#### Then install [mulle-sde](//github.com/mulle-sde) and give it a try! 
-
-## About
-
-MulleSDE is an IDE and dependency (package) manager for the commandline. There are no graphical components.
+MulleSDE is an IDE and a dependency (package) manager for the commandline. There are no graphical components.
 Amongst a few other things it
 
 * provides a per-project environment
