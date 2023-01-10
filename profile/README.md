@@ -1,6 +1,6 @@
 # MulleSDE
 
-MulleSDE is an IDE and a dependency (package) manager for the commandline. There are no graphical components.
+MulleSDE is an IDE and a dependency (package) manager for the commandline. 
 
 ## Documentation
 
