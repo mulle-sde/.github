@@ -1,6 +1,9 @@
 # MulleSDE
 
 MulleSDE is an IDE and a dependency (package) manager for the commandline. 
+You could call it a [npm](https://www.npmjs.com/) or a [virtualenv](//pypi.org/project/virtualenv) 
+for C languages.
+
 
 ## Documentation
 
