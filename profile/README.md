@@ -2,7 +2,12 @@
 
 MulleSDE is an IDE and a dependency (package) manager for the commandline. 
 You could call it a [npm](https://www.npmjs.com/) or a [virtualenv](//pypi.org/project/virtualenv) 
-for C languages. [De Re mulle-sde](https://www.mulle-kybernetik.com/de-re-mulle-sde/) is a
+for C languages. 
+
+See [Manage a Makefile project](https://www.mulle-kybernetik.com/de-re-mulle-sde/existing-makefile.html) 
+on how to employ mulle-sde with the least friction possible in existing projects.
+
+[De Re mulle-sde](https://www.mulle-kybernetik.com/de-re-mulle-sde/) is a
 a short introductory guide, that gives an overview of some of the capabilities.
 
 MulleSDE strives to be self-explanatory through help texts and file comments.
