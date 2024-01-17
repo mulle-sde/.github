@@ -14,6 +14,11 @@ The [mulle-sde WiKi](//github.com/mulle-sde/mulle-sde/wiki) contains more in-dep
 that doesn't fit into the help texts of the various mulle-sde commands. If something
 is unclear feel free to open up a github [issue](https://github.com/mulle-sde/mulle-sde/issues).
 
+<video src="https://github.com/mulle-sde/.github/raw/master/terminal.mp4" 
+        controls="controls" 
+        style="max-width: 730px;">
+</video>
+
 ## Install
 
 See [mulle-sde-developer](//github.com/mulle-sde/mulle-sde-developer) how
