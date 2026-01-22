@@ -1,6 +1,9 @@
 # MulleSDE
 
-MulleSDE is an IDE and a dependency (package) manager for the commandline. 
+MulleSDE is an IDE and a dependency (package) manager for the commandline. It's the perfect
+companion tool for AIs. It enables cross-platform development with a uniform setup and gets
+you going in seconds, with powerful extensions.
+
 You could call it a [npm](https://www.npmjs.com/) or a [virtualenv](//pypi.org/project/virtualenv) 
 for C languages. 
 
@@ -11,7 +14,7 @@ which shows how to employ mulle-sde in existing projects with the least friction
 
 ![demo](https://github.com/mulle-sde/.github/raw/master/terminal.gif) 
 
-MulleSDE strives to be self-explanatory through help texts and file comments.
+MulleSDE strives to be self-explanatory through help texts, howtos and file comments.
 The [mulle-sde WiKi](//github.com/mulle-sde/mulle-sde/wiki) contains more in-depth information, 
 that doesn't fit into the help texts of the various mulle-sde commands. If something
 is unclear feel free to open up a github [issue](https://github.com/mulle-sde/mulle-sde/issues).
