@@ -15,10 +15,9 @@ which shows how to employ mulle-sde in existing projects with the least friction
 ![demo](https://github.com/mulle-sde/.github/raw/master/terminal.gif) 
 
 MulleSDE strives to be self-explanatory through help texts, howtos and file comments.
-The [mulle-sde WiKi](//github.com/mulle-sde/mulle-sde/wiki) contains more in-depth information, 
-that doesn't fit into the help texts of the various mulle-sde commands. If something
-is unclear feel free to open up a github [issue](https://github.com/mulle-sde/mulle-sde/issues).
-
+For example read `mulle-sde howto testing` to learn important testing concepts like that a 
+`test` directory is an **isolated mulle-sde project**. 
+ 
 ## Install
 
 See [mulle-sde-developer](//github.com/mulle-sde/mulle-sde-developer) how
